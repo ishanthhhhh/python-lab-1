@@ -1,24 +1,42 @@
 🐍 Python Lab
 
-📌 About This Repository
+📖 About This Repository
 
 This repository contains my Python laboratory work as an Artificial Intelligence and Data Science student at Chennai Institute of Technology.
 
 🎯 Purpose
 
-- 💻 Practise Python programming.
-- 🧠 Strengthen logical thinking and problem-solving skills.
-- 📚 Apply programming concepts through practical exercises.
+- 💻 Practise Python programming through academic exercises.
+- 🧩 Develop logical thinking and problem-solving skills.
+- 📚 Apply programming concepts to practical problems.
 
-🛠️ Technology Used
+⚙️ Technology Used
 
 - 🐍 Python
 
-📂 Programs
+🗂️ Programs
 
-This repository currently contains one Python program. More laboratory exercises will be added as I progress through my coursework.
+📊 Academic Report Generator
 
-📈 Learning Journey
+A Python program that calculates a student's academic performance based on the marks entered for each subject.
+
+✨ Features
+
+- 📝 Accepts the student's name and number of subjects.
+- 🔢 Takes subject marks as input.
+- 🧮 Calculates total marks and percentage.
+- 🏅 Assigns a grade and performance category based on the percentage.
+- 📄 Displays an academic report.
+
+🧠 Concepts Practised
+
+- Variables and data types
+- User input and output
+- "for" loops
+- Conditional statements ("if", "elif", "else")
+- Arithmetic operations
+
+🌱 Learning Journey
 
 I'm building my Python programming skills through hands-on practice, gradually strengthening my understanding of programming concepts and problem-solving.
 
@@ -28,4 +46,4 @@ I'm building my Python programming skills through hands-on practice, gradually s
 
 🎓 Department: Artificial Intelligence and Data Science
 
-🏫 Institution: Chennai Institute of Technology
+🏛️ Institution: Chennai Institute of Technology
