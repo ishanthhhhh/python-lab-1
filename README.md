@@ -1,29 +1,31 @@
-Python Lab 🐍
+🐍 Python Lab
 
-About This Repository
+📌 About This Repository
 
 This repository contains my Python laboratory work as an Artificial Intelligence and Data Science student at Chennai Institute of Technology.
 
-Purpose
+🎯 Purpose
 
-- Practise Python programming.
-- Strengthen my logical thinking and problem-solving skills.
-- Build a foundation for learning Artificial Intelligence and Machine Learning.
+- 💻 Practise Python programming.
+- 🧠 Strengthen logical thinking and problem-solving skills.
+- 📚 Apply programming concepts through practical exercises.
 
-Technology Used
+🛠️ Technology Used
 
-- Python
+- 🐍 Python
 
-Programs
+📂 Programs
 
-This repository currently contains one Python program. I'll update this section as I complete more exercises.
+This repository currently contains one Python program. More laboratory exercises will be added as I progress through my coursework.
 
-Learning Journey
+📈 Learning Journey
 
-I'm developing my Python fundamentals step by step as I work towards becoming an Applied AI Engineer.
+I'm building my Python programming skills through hands-on practice, gradually strengthening my understanding of programming concepts and problem-solving.
 
 ---
 
-Author: Ishanth Kumar
-Field: Artificial Intelligence and Data Science
-Institution: Chennai Institute of Technology
+👨‍💻 Author: Ishanth Kumar
+
+🎓 Department: Artificial Intelligence and Data Science
+
+🏫 Institution: Chennai Institute of Technology
